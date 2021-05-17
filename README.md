@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcin521
-- 👀 I’m interested in ...
+- 👀 I’m interested in control
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working on inteligent platform
 - 📫 How to reach me linkedin.com/in/marcin-kondoł-a14619154
 
 <!---
