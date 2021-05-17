@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marcin521
-- 👀 I’m interested in control
+- 👀 I’m interested in control programming
 - 🌱 I’m currently learning C
 - 💞️ I’m working on inteligent platform
 - 📫 How to reach me linkedin.com/in/marcin-kondoł-a14619154
